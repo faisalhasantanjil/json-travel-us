@@ -48,7 +48,7 @@
         "location": "Statesboro,USA",
         "status": "Available",
         "pricePerHour": "9.45",
-        "image": "https://images.unsplash.com/photo-1622198750361-6e94cb857945?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGF1ZGklMjBhNHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "image": "https://images.unsplash.com/photo-1597007030739-6d2e7172ee5b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGF1ZGklMjBhNHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         "rating": "4.6"
     },
     {
@@ -76,5 +76,44 @@
         "pricePerHour": "8.20",
         "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHJlbnQlMjBjYXJ8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
         "rating": "4.7"
+    },
+    {
+        "id": 7,
+        "carModel": "Fort Mustang 2.3",
+        "driver": "Steve Hellon",
+        "contactNumber": "+784527854",
+        "seat": "2",
+        "type": "Economy",
+        "location": "carborough,Toronto, Canada",
+        "status": "Available",
+        "pricePerHour": "7.50",
+        "image": "https://images.unsplash.com/photo-1591293836027-e05b48473b67?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fG11c3Rhbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "rating": "4.4"
+    },
+    {
+        "id": 8,
+        "carModel": "Citroën C3 hatchback",
+        "driver": "Adam Limph",
+        "contactNumber": "+57645455",
+        "seat": "4",
+        "type": "Economy",
+        "location": "Funakoshi, Japan",
+        "status": "Available",
+        "pricePerHour": "6.50",
+        "image": "https://images.unsplash.com/photo-1544290738-5eac75f630f3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YWlyJTIwaW5kaWF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "rating": "4.1"
+    },
+    {
+        "id": 9,
+        "carModel": "Toyota Higlander Hybrid",
+        "driver": "Eon Flex",
+        "contactNumber": "+785187486",
+        "seat": "7",
+        "type": "Premium",
+        "location": "Hurghada, Egypt",
+        "status": "Available",
+        "pricePerHour": "11.50",
+        "image": "https://images.unsplash.com/photo-1610855143470-0967a7348972?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dG95b3RhJTIwaGlnaGxhbmRlcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "rating": "4.5"
     }
 ]
