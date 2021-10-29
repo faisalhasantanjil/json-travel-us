@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "carModel": "Hyundai Creta",
+        "driver": "Dave Jeremy",
+        "contactNumber": "+99645128",
+        "seat": "4",
+        "type": "Economy",
+        "location": "Croydon, Australia",
+        "status": "Available",
+        "pricePerHour": "7.55",
+        "image": "https://images.unsplash.com/photo-1599575654473-4d9a1b766975?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGh5dW5kYWl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "rating": "4.7"
+    },
+    {
+        "id": 2,
+        "carModel": "Honda Civic",
+        "driver": "James lad",
+        "contactNumber": "+98945121",
+        "seat": "4",
+        "type": "Premium",
+        "location": "Dubai, United Arab Emirates",
+        "status": "Available",
+        "pricePerHour": "12.30",
+        "image": "https://images.unsplash.com/photo-1619767891037-8b71b1546c9f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aHl1bmRhaSUyMGNpdmljfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60 ",
+        "rating": "4.6"
+    },
+    {
+        "id": 3,
+        "carModel": "Nissan Pathfinder 2018",
+        "driver": "Luke Galler",
+        "contactNumber": "+78524687",
+        "seat": "7",
+        "type": "Premium",
+        "location": "Thornton Curtis,UK",
+        "status": "Available",
+        "pricePerHour": "10.25",
+        "image": "https://images.unsplash.com/photo-1549156512-41b188820ac5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmlzc2FuJTIwcGF0aGZpbmRlcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "rating": "4.5"
+    },
+    {
+        "id": 4,
+        "carModel": "Audi A4 2016",
+        "driver": "Matt Harris",
+        "contactNumber": "+070988131",
+        "seat": "4",
+        "type": "Premium",
+        "location": "Statesboro,USA",
+        "status": "Available",
+        "pricePerHour": "9.45",
+        "image": "https://images.unsplash.com/photo-1622198750361-6e94cb857945?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGF1ZGklMjBhNHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "rating": "4.6"
+    },
+    {
+        "id": 5,
+        "carModel": "chevrolet malibu 2013",
+        "driver": "Arnould Pepoor",
+        "contactNumber": "+89951785",
+        "seat": "4",
+        "type": "Economy",
+        "location": "Kitzbuhel, Austria",
+        "status": "Available",
+        "pricePerHour": "6.70",
+        "image": "https://images.unsplash.com/photo-1590510604813-0667b9729a00?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzZ8fGNoZXZyb2xldHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "rating": "4.5"
+    },
+    {
+        "id": 6,
+        "carModel": "Ford SUV 2015",
+        "driver": "Jack Robin",
+        "contactNumber": "+785298845",
+        "seat": "7",
+        "type": "Premium",
+        "location": "Ortahisar, Turkey",
+        "status": "Available",
+        "pricePerHour": "8.20",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHJlbnQlMjBjYXJ8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "rating": "4.7"
+    }
+]

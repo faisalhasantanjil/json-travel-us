@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "plane": "Air India",
+        "type": "Economy",
+        "depart": "Kolkata, IN",
+        "destination": "Dubai, AE",
+        "date": "10-11-2021",
+        "image": "https://images.unsplash.com/photo-1544290738-5eac75f630f3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YWlyJTIwaW5kaWF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "price": "600"
+    },
+    {
+        "id": 2,
+        "plane": "Qatar Airways",
+        "type": "Business class",
+        "depart": "Istanbul, TR",
+        "destination": "Manchester, GB",
+        "date": "12-11-2021",
+        "image": "https://images.unsplash.com/photo-1587025448010-3e6902606be3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cWF0YXIlMjBhaXJ3YXlzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "price": "750"
+    },
+    {
+        "id": 3,
+        "plane": "Cathay Pacific Airways",
+        "type": "Economy",
+        "depart": "New York, NY",
+        "destination": "Doha, QA",
+        "date": "12-11-2021",
+        "image": "https://images.unsplash.com/photo-1534775053122-dcd28a281520?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2F0aGF5JTIwcGFjaWZpY3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "price": "880"
+    },
+    {
+        "id": 4,
+        "plane": "EVA Air",
+        "type": "Business class",
+        "depart": "Toronto, ON",
+        "destination": "Port Elizabeth, ZA",
+        "date": "14-11-2021",
+        "image": "https://images.unsplash.com/photo-1521900092653-4bf38fcd896a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGFpcmxpbmV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "price": "950"
+    },
+    {
+        "id": 5,
+        "plane": "Japan Airlines",
+        "type": "Economy",
+        "depart": "Venice, IT",
+        "destination": "San Francisco, CA",
+        "date": "15-11-2021",
+        "image": "https://images.unsplash.com/photo-1610642372677-bcddb69f3531?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGFpcmxpbmV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "price": "600"
+    },
+    {
+        "id": 6,
+        "plane": "Emirates",
+        "type": "Premium",
+        "depart": "Dublin, IE",
+        "destination": "Dhaka, BD",
+        "date": "16-11-2021",
+        "image": "https://images.unsplash.com/photo-1567446188601-95f43044f6dc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZW1pcmF0ZXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "price": "990"
+    },
+    {
+        "id": 7,
+        "plane": "Air France",
+        "type": "Business class",
+        "depart": "Venice, IT",
+        "destination": "Paris, FR",
+        "date": "11-11-2021",
+        "image": "https://images.unsplash.com/photo-1595127508441-efd9724e639b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YWlyJTIwZnJhbmNlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "price": "670"
+    },
+    {
+        "id": 8,
+        "plane": "Hainan Airlines",
+        "type": "Business class",
+        "depart": "Dallas, TX",
+        "destination": "Shanghai, CN",
+        "date": "16-11-2021",
+        "image": "https://images.unsplash.com/photo-1598281343081-0f36311fe207?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Y2hpbmElMjBhaXJsaW5lc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "price": "780"
+    }
+]
